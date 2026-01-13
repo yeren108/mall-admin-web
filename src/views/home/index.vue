@@ -382,15 +382,4 @@
     margin-top: 20px;
     border: 1px solid #DCDFE6;
   }
-  .mine-layout {
-    position: absolute;
-    right: 140px;
-    top: 107px;
-    width: 250px;
-    height: 235px;
-  }
-  .address-content{
-    padding: 20px;
-    font-size: 18px
-  }
 </style>
